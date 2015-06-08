@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPB.Licence.Consumer", "JPB.Licence\JPB.Licence.Consumer.csproj", "{9774DFF4-FBE0-4691-AA99-F20ED87B512D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPB.Licence.Common", "JPB.Licence.Common\JPB.Licence.Common.csproj", "{BFB2F799-BE5E-42EE-9C2A-FB207BF48319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9774DFF4-FBE0-4691-AA99-F20ED87B512D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9774DFF4-FBE0-4691-AA99-F20ED87B512D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9774DFF4-FBE0-4691-AA99-F20ED87B512D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9774DFF4-FBE0-4691-AA99-F20ED87B512D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB2F799-BE5E-42EE-9C2A-FB207BF48319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB2F799-BE5E-42EE-9C2A-FB207BF48319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB2F799-BE5E-42EE-9C2A-FB207BF48319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB2F799-BE5E-42EE-9C2A-FB207BF48319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
